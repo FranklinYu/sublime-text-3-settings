@@ -4,6 +4,8 @@
 	],
 	"installed_packages":
 	[
-		"Package Control"
+		"Bison",
+		"Package Control",
+		"Prolog"
 	]
 }
