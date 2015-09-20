@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"Bison",
 		"Package Control",
 		"Prolog",
