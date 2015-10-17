@@ -8,5 +8,6 @@
 	[
 		80
 	],
-	"word_wrap": true
+	"word_wrap": true,
+	"open_files_in_new_window": false
 }
