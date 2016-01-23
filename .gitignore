@@ -2,3 +2,6 @@
 !.gitignore
 !*/
 !*.sublime-settings
+
+/Packages/*
+!/Packages/Users/
