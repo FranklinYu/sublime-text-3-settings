@@ -1,5 +1,4 @@
-/*
-!/.gitignore
-!/Users/
-/Users/*
-!/Users/*.sublime-settings
+# unpacked packages
+Codecs33
+ConvertToUTF8
+bz2
