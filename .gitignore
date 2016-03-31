@@ -1,7 +1,11 @@
-*
-!.gitignore
-!*/
-!*.sublime-settings
+# Cacle for the session information
+/Local
 
-/Packages/*
-!/Packages/Users/
+# binary temporary files
+/Cache
+/Index
+
+# This folder only contains zipped packages that will be re-installed once
+# Package Control is installed. See
+# https://www.sublimetext.com/docs/3/packages.html for details.
+/Installed Packages
